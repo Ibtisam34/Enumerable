@@ -1,4 +1,4 @@
-# DECODE_MORSE_CODE
+# ENUMERABLE
 
 <a name="readme-top"></a>
 
@@ -33,9 +33,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [DECODE_MORSE_CODE] <a name="about-project"></a>
+# 📖 [ENUMERABLE] <a name="about-project"></a>
 
-**[DECODE_MORSE_CODE]** Decode a Morese code message using Ruby. Morse Decode is a method used in telecommunication to decode symbol characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs.[3][4] Morse code is named after Samuel Morse, one of the inventors of the telegraph.
+**[ENUMERABLE]** The Enumerable mixin provides collection classes with several traversal and searching methods, and with the ability to sort. The class must provide a method each, which yields successive members of the collection.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,8 +51,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Decode Morse message using Ruby]**
-- **[Increase efficiency when using Ruby]**
+- **[Test the same funcionality as methods in Enumerable]**
 
 ### Live Demo <a name="live-demo"><a/>
 
@@ -80,8 +79,7 @@ Terminal
 
 Clone this repository to your desired folder:
 
-cd [your-folder] https://github.com/Mukumbuta/Decode_Morse_code.git
-
+cd [your-folder] https://github.com/Mukumbuta/Enumerable.git
 cd my-folder
 
 Test
@@ -108,7 +106,7 @@ rubocop
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Increase efficiency as compared to by doing mannual decoding]**
+- [ ] **[Test the same funcionality as methods in Enumerable]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,6 +130,6 @@ If you like this project and you find it helpful, please give this project a sta
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Mukumbuta/Decode_Morse_code/blob/Ruby_Setup/MIT.md) licensed.
+This project is [MIT](https://github.com/Mukumbuta/ENUMERABLE/blob/Ruby_Setup/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
