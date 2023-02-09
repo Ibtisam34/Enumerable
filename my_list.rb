@@ -9,7 +9,6 @@ class MyList
   end
 
   def each
-    list.each {|element| yield element}
+    list.each { |element| yield element }
   end
-  
 end
