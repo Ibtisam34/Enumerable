@@ -130,6 +130,6 @@ If you like this project and you find it helpful, please give this project a sta
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Mukumbuta/ENUMERABLE/blob/Ruby_Setup/MIT.md) licensed.
+This project is [MIT](https://github.com/Mukumbuta/Enumerable/blob/Enumerable_Module/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
