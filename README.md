@@ -126,6 +126,8 @@ If you like this project and you find it helpful, please give this project a sta
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+Hat tip to anyone whose code snippet was used for inspiration.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
